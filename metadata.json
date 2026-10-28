@@ -1,0 +1,7 @@
+{
+  "name": "무한한 영웅들",
+  "description": "현지화 및 개인화된 만화책 생성기",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"],
+  "prompt": ""
+}
